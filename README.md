@@ -2,6 +2,6 @@
 
 I mainly implemented the use of useState hook along with other simple things.
 
-Deployed on: https://react-tours-three.vercel.app/
+Deployed on: https://react-tours-theta.vercel.app/
 
 More projects in https://github.com/joaquincataldo3
