@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Ubuntu", sans-serif;
+}
+
+button {
+    outline: 0;
+    border: 0;
+    cursor: pointer;
+}
+
+.tour-wrapper {
+    width: 80%;
+    border: 1px solid rgb(187, 187, 187);
+    margin: 1.2rem auto;
+    max-width: 420px;
+}
+
+.tour-img-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.tour-info-container {
+    padding: 0 0.875rem;
+}
+
+.tour-name-price-container {
+    margin: 1rem 0;
+}
+
+.tour-price {
+    padding: 0.200rem;
+    background-color: rgb(148, 187, 226);
+    color: black;
+    width: 65px;
+}
+
+.show-more-less-btn {
+   color: rgb(99, 165, 240);
+   font-weight: 900;
+   margin-left: 0.400rem;
+}
+
+.remove-btn-container {
+    display: flex;
+    justify-content: center;
+    padding: 0.500rem 0;
+}
+
+.remove-tour-btn {
+    width: 70%;
+    padding: 0.200rem;
+    border: 1px solid red;
+    color: red;
+    margin: 0 auto;
+}
